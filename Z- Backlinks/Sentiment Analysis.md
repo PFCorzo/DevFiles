@@ -1,0 +1,1 @@
+Sentiment Analysis is the use of [[Natural Language Programming]], [[Text Analysis]], [[Computational Linquistics]], and [[Biometrics]] to systematically identify, extract, and [[Quantify]], and study affective states and subjective information.  

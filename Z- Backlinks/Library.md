@@ -1,0 +1,2 @@
+# Definition 
+A **library** is _just_ a collection of related functionality. Nothing more, but also nothing less. The defining characteristic of a library is that _you_ are in control, _you_ call the library. Also, a library is a _collection_ of related functionality, whereas a module only provides a _single piece_ of functionality. Which means that, if you have a system with both modules and libraries, a library will typically contain multiple modules. For example, you might have a collections library which contains a `List` module, a `Set` module and a `Map` module.

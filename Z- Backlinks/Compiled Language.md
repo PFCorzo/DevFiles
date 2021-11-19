@@ -1,0 +1,1 @@
+A compiled language is **a programming language whose implementations are typically compilers** (translators that generate machine code from source code), and not interpreters (step-by-step executors of source code, where no pre-runtime translation takes place). The term is somewhat vague.

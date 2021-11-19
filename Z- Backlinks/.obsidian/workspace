@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "6a42dfa974a55872",
+    "type": "split",
+    "children": [
+      {
+        "id": "121caf9bbcf4c5d8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Financial Tech/100. Project/0. DreamTeam.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "018108b1d53c2282",
+        "type": "split",
+        "children": [
+          {
+            "id": "fc1db183f16d867c",
+            "type": "leaf",
+            "dimension": 20.903954802259886,
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Financial Tech/100. Project/0. DreamTeam.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "53da1091f197f93e",
+            "type": "leaf",
+            "dimension": 79.09604519774011,
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Financial Tech/100. Project/0. DreamTeam.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.6600228795504797,
+                  "close": true
+                }
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d6978d02ba0227f",
+    "type": "split",
+    "children": [
+      {
+        "id": "881565810033f682",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "816165fd869d7782",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7b52c8a11dfbc38e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 418.5
+  },
+  "right": {
+    "id": "40d8fc9ad4b3606b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c786b32785bd7a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "289156f64a439ac2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Financial Tech/100. Project/0. DreamTeam.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "121caf9bbcf4c5d8",
+  "lastOpenFiles": [
+    "Financial Tech/100. Project/0. DreamTeam.md",
+    "Paulo.md",
+    "Financial Tech/100. Project/DreamTeam.md",
+    "Financial Tech/100. Project/Bryan.md",
+    "Financial Tech/100. Project/Jose.md",
+    "Financial Tech/1. Python/I.md",
+    "Editor.md",
+    "IDE.md",
+    "Environement.md",
+    "Events.md"
+  ]
+}

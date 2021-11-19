@@ -1,0 +1,1 @@
+The term **editor** is commonly used to refer to a **text editor**, which is a software program that allows users to create or manipulate [plain text](https://www.computerhope.com/jargon/p/plaintex.htm) computer files. They are often used in the field of [computer programming](https://www.computerhope.com/jargon/p/programming.htm).

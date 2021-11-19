@@ -1,0 +1,1 @@
+Death is thought to be a wonderful thing by some people. others thik it is no good .

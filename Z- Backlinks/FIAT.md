@@ -1,0 +1,1 @@
+Fiat money is a currency established as money, often by government regulation. Fiat money does not have [[Intrinsic Value]] and does not have use value. It has value only because a government maintains its value, or because parties engaging in exchange agree on its value.

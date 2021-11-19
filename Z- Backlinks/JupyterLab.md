@@ -1,0 +1,1 @@
+JupyterLab enables **you to arrange your work area with notebooks, text files, terminals, and notebook outputs**. JupyterLab provides a high level of integration between notebooks, documents, and activities: Drag-and-drop to reorder notebook cells and copy them between notebooks.

@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "b6f839cc08b8cc98",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad034c1903773f20",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Financial Tech/1. Python/Python I.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "68f66dba527665d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "edb9fb7695779237",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5aba4d785a59c8f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "99e5a7175e1753bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283
+  },
+  "right": {
+    "id": "c301ae34d3d822b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "27cdcdaac5518554",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac28f99599e08bfe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Financial Tech/1. Python/Python I.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "50b489561dbb76fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ad034c1903773f20",
+  "lastOpenFiles": [
+    "Financial Tech/1. Python/Python I.md",
+    "Financial Tech/1. Python/Python II.md",
+    "Z- Backlinks/.env Files.md",
+    "Financial Tech/Native Programming Language/NLP I.md",
+    "Financial Tech/2. Python & Panda/Python & Pandas I.md",
+    "Financial Tech/0. Finance & Programming/Finance & Programming I.md",
+    "Financial Tech/0. Finance & Programming/Finance & Programming II.md",
+    "Financial Tech/0. Finance & Programming/Finance & Programming III.md",
+    "Financial Tech/1. Python/Python III.md",
+    "Financial Tech/2. Python & Panda/Python & Pandas III.md"
+  ]
+}

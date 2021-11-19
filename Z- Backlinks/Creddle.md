@@ -1,0 +1,1 @@
+Creddle is a free resume building website. It's an online tool that helps you build, format, and customize your resume. After you're done, embed it on your website, print it out, or save it as a pdf.

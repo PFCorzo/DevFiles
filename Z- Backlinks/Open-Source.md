@@ -1,0 +1,1 @@
+In computer programming, "open source" refers to code that develpers can openly collaborate and is free of charge to the general public. 

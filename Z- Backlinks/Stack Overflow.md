@@ -1,0 +1,1 @@
+Stack Overflow is like the Wikipedia of code. It's an online community for developers to share their knowledge, ask questions, develop their skills, and help solve coding problems.
