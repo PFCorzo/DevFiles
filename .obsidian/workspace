@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Financial Tech/1. Python/Python I.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#GITCheat",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,9 +68,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Financial Tech/1. Python/Python I.md",
+                "file": "README.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -90,8 +90,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -100,15 +99,15 @@
   },
   "active": "ad034c1903773f20",
   "lastOpenFiles": [
-    "Financial Tech/1. Python/Python I.md",
-    "Financial Tech/1. Python/Python II.md",
-    "Z- Backlinks/.env Files.md",
-    "Financial Tech/Native Programming Language/NLP I.md",
-    "Financial Tech/2. Python & Panda/Python & Pandas I.md",
-    "Financial Tech/0. Finance & Programming/Finance & Programming I.md",
-    "Financial Tech/0. Finance & Programming/Finance & Programming II.md",
-    "Financial Tech/0. Finance & Programming/Finance & Programming III.md",
-    "Financial Tech/1. Python/Python III.md",
-    "Financial Tech/2. Python & Panda/Python & Pandas III.md"
+    "README.md",
+    "Z- Recordings/Recording 20211119234205.webm",
+    "Z- Images/Class Related/Pasted image 20211119231439.png",
+    "Z- Backlinks/Modules.md",
+    "Z- Backlinks/Functions.md",
+    "Back End/1. Python/Python I.md",
+    "Recording 20211119233251.webm",
+    "Z- Backlinks/Floating Point Number.md",
+    "Z- Backlinks/Integer.md",
+    "Z- Backlinks/Variables.md"
   ]
 }

@@ -1,0 +1,1 @@
+They are the same goddamn thing as [[Data Type]]

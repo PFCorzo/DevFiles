@@ -1,0 +1,1 @@
+A value is the representation of some entity that can be manipulated by a _program_. The members of a type are the values of that type.

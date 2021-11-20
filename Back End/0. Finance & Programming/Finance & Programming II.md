@@ -22,9 +22,9 @@ Creating directories and files on your computer through the terminal is more eff
 
 Using the terminal may feel clunky at first, but, with practice, it will make navigation of your directories and files much easier, as well as allow you to interact with some of our technologies.
 
-_**How can I perform simple operations with the terminal?**_ #CLICheat
+_**How can I perform simple operations with the terminal?**_ 
 
-## Most commonly used terminal commands. 
+## Most commonly used terminal commands. #CLI
 
 * `cd` changes directory
 
@@ -162,7 +162,7 @@ GitHub is an online space to work collaboratively on projects and keep your code
 
 Most software requires teams of developers to work simultaneously in a careful way. GitHub is a powerful tool that allows us to do that, which is one of the reasons developers rely on it so heavily. Virtually every software company stores its code in GitHub or a similar service.
 
-**_How do I use Git and GitHub?_** #GITCheat
+**_How do I use Git and GitHub?_** #GIT
 
 [This handy video](https://www.youtube.com/watch?v=seICQOd2qsY) walks you through the following steps. 
 
@@ -237,15 +237,4 @@ To merge your changes into master and update your local repository with those ch
 1. Pull the updates from the remote server: `git pull`
 
 
-## Prework Support
 
-Looking for pre-work support? Our team of tutors are eager to help! Request a tutor session with the following steps:
-
-1. If not already logged in to BCS, login using your credentials ***(supplied 24 hours after enrollment).***
-2. Click **Support** in the top right.
-3. Complete the form fields to submit your request:
-   * Under **Question Category**, select "Tutor Request”
-   * Under **Question Category**, select "Request a Tutor”
-   * Under **Currently, Which Sessions Would You Like to Discuss?**, select “Prework assignment”. 
-4. Complete the additional fields and submit your request. 
-![[Recording 20211117112011.webm]]
