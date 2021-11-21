@@ -1,0 +1,1 @@
+A **server** is a software or hardware device that accepts and responds to requests made over a network.

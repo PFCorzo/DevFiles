@@ -131,7 +131,7 @@ When you are in a [[Jupyter Notebooks]], you will be able to run multiple snippe
 ##### Jupyternotebook in VSCode extension 
 
 ## Coding In Python #Python
-### Print #print
+### Print 
 Every running program has a text output area called "standard out", or sometimes just "stdout". The Python print() function takes in python data such as ints and strings, and prints those values to standard out. 
 You can run a program from the terminal, standard out appears right there. [](https://cs.stanford.edu/people/nick/py/python-print.html) 
 
@@ -156,7 +156,7 @@ At [[Run Time]], the output will then be: Maribel's car was on fire
 [[Variables]] are containers for storing data [[Value]]s.
 
 #### Creating Variables
-A variable is created the moment you first assign a value to it.
+A [[Variable]] is created the moment you first assign a value to it.
 To create a variable in Python, give the variable a name(in this case it will be X) followed by an equal sign, and plug in the [[Value]] you wish to assign it. 
 
 Variables do not need to be double quoted to print at all.
@@ -170,11 +170,8 @@ This is because even though we told it to print X, it hold the value of 5.
 
 Variables do not need to be declared with any particular type, and can even change type after they have been set. To change the variable of X that was created earlier, simply assign X to hold another value.
 
-
-
-
 #### Variable Types
-When you are dealing with variables in Python, there will be different [[Variable Types]] or [[Data Type]]s. They are as follows: #DataTypes
+When you are dealing with variables in Python, there will be different [[Variable Types]] or [[Data Type]]s. They are as follows: 
 
 Text Type: `str` or [[String]]
 Numeric Types: `int` or [[Integer]], `float` or [[Floating Point Number]], `complex`
@@ -249,19 +246,11 @@ We got an float.
 Listen to ![[Recording 20211119234205.webm]] and here why python gave us back that result. #interesting 
 
 
-#### Functions 
-[[Functions]] in python are block(s) of code which only runs when it is called.
+### Functions 
+[[Functions]] in python are block(s) of code which only run when it is called.
 You can pass data, known as [[Parameters]], into a function.
 A function can return data as a result.
 
-
-
-
-
-#### 
-``` 
-
-```
 
 
 

@@ -1,0 +1,1 @@
+Variables are containers for storing data values or [[Data Type]]s. Variable are either pre-assigned or assigned by your self. 
