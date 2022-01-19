@@ -1,3 +1,2 @@
 # Introduction & Instructions 
 ### My notes for the University of Miami's Financial Technology Certificate Program. It include Python, Pandas, APIs, Data Visualization, SQL, Time Series, Classifications, AWS Cloud, NPL, Deep Learning, Blockchain, Blockchain w/ Python, Smart Contract w/ Solidity, Advanced Solidity, and Decentralized Apps.
-### Disclaimer : Information on these .md files has been obtained through a variety of sources; if your work has been used and the proper citation were not provided, please pull the repo, branch out, add the citation to the text, push it, and create a pull request. It will be approved upon verification. Not intended to be used for any commercial reasons. 
