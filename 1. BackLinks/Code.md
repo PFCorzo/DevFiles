@@ -16,7 +16,7 @@ It's possible to learn Machine Code, but it would take a long time! Luckily ther
 
   
 
-Now, this looks a little easier to understand! This picture shows how to tell the computer to say **Hello, world**. Programming languages provide an interface between coders or programmers and machine language. So instead of using machine code, the image above uses a programming language called [[Python]]. 
+Now, this looks a little easier to understand! This picture shows how to tell the computer to say **Hello, world**. Programming languages provide an interface between coders or programmers and machine language. So instead of using machine code, the image above uses a programming language called [[1. BackLinks/Python]]. 
 
 Almost all programming languages work the same way:
 

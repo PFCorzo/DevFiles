@@ -1,0 +1,15 @@
+{
+  "showFrontmatter": true,
+  "attachmentFolderPath": "2. Attachment",
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "shortest",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "1. BackLinks",
+  "spellcheckDictionary": [
+    "Pre",
+    "NLPs"
+  ],
+  "vimMode": false,
+  "showUnsupportedFiles": true
+}

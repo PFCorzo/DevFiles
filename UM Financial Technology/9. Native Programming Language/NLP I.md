@@ -9,9 +9,9 @@ There are industries that have large quanties of textual data that can't be effi
 
 NLP is involved in converting large text such as the one above into human readable texts. For stocks, NLPs can can read multiple text files and link the relationship between new information related to your investment, but it can also use it as parameters to suggest an investment. 
 
-In finance, NLPs can automate [[Sentiment Analysis]] of earning statements and investor calls. Form predictions of interest rate from Federal Reserve Testimonies, create news-based indices of geopolitcal uncertainty. 
+In finance, NLPs can automate [[Sentiment Analysis]] of [[Earning Statements]] and [[Investor Calls]]. Form predictions of [[Interest Rates]] from Federal Reserve Testimonies, create news-based indices of geo-politcal uncertainty. 
 
-NLP is hard because humans interperet what others say(natural language) habitually/intuitively. However, a machine is not a human being; Text/words/sentences have multiple variables that can influence how the listener interprets it. Such as the context of the situation at the moment, the speakers characterstic, traits, reputation, and even the listeners own personal bias, background, culture, party affiliation. Text/words/sentences are ambiguos; meaning they can mean different things in different contexts.  Text/words/sentences are also nonstandard; meaning that through the use of grammar, syntax arrangement, etc.., can be manipulated to change the meaning of a statement.
+NLP is hard because humans interpret what others say(natural language) habitually/intuitively. However, a machine is not a human being; Text/words/sentences have multiple variables that can influence how the listener interprets it. Such as the context of the situation at the moment, the speakers characterstic, traits, reputation, and even the listeners own personal bias, background, culture, party affiliation. Text/words/sentences are ambiguos; meaning they can mean different things in different contexts.  Text/words/sentences are also nonstandard; meaning that through the use of grammar, syntax arrangement, etc.., can be manipulated to change the meaning of a statement.
 
 But first, lets add some library [[Dependencies]] to our [[.env File]]: 
 ### Python NLP/ML/AI Environment

@@ -1,4 +1,4 @@
-# Unsupervised Learning 
+# Amazon Sage Maker
 ## The CLoud Toolbox 
 * [[Amazon Sagemaker]]
 Sagemaker is used to deploy Machine Learning models. 

@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "368ab14c74f8331c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5a8f2afbf2fa33a",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0390f4dc978b842",
+    "type": "split",
+    "children": [
+      {
+        "id": "878981b1e659bf19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa5c0df1b216bd9a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6731b8cee64aaffb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 179.00350189208984
+  },
+  "right": {
+    "id": "fa935bbed8cd5a03",
+    "type": "split",
+    "children": [
+      {
+        "id": "05cff8ed49b0c0fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "178f752acc0fce1c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ad985a3e8681872a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "219c7b1e1a462a0d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ae0c2143f74ed787",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b5a8f2afbf2fa33a",
+  "lastOpenFiles": [
+    "README.md",
+    "2. Attachment/obsidian 1.jpg",
+    "2. Attachment/obsidian.jpg",
+    "UM Financial Technology/7. Time Series/Time Series I.md",
+    "UM Financial Technology/7. Time Series/Time Series II.md",
+    "UM Financial Technology/6. SQL/SQL III.md",
+    "UM Financial Technology/6. SQL/SQL I.md",
+    "UM Financial Technology/6. SQL/SQL II.md",
+    "UM Financial Technology/1. Python/Python II.md",
+    "UM Financial Technology/1. Python/Python I.md"
+  ]
+}

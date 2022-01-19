@@ -7,35 +7,42 @@
 5. Repeat blocks of code with loops
 
 ## Python 
-[[Python]] Is a [[Interpreted Language]], [[Object-Oriented Programming]], [[High Level Programming Language]] with [[Dynamic Semantics]].  
+[[1. BackLinks/Python]] Is a [[Interpreted Language]], [[Object-Oriented Programming]], [[High Level Programming Language]] with [[Dynamic Semantics]].  
 
 It is an [[Interpreted Language]] because at run time, the python engine figures out what the code means. As opposed to a [[Compiled Language]] that at run time, is converted  into a file by a compiler and you run the code at another time. It is considered an [[Object-Oriented Programming]] because it can deal with things like [[Objects]], [[Events]],  [[Properties]], and [[Methods]]. It is a [[High Level Programming Language]] because it is not at the level of the machine, but at the level of the individual because the average human can read the code. It has [[Dynamic Semantics]] which means that some of the code written will be understood by Python dynamically and possibly fix it. 
 
-![[Python Features.png]]
 **Figure 1.0**
 Due to the feauture listed in **Figure 1.0** it is a powerful data science tool because of libraries make it easy to do what wanna do with [[Data Science]] and [[Deep-Machine Learning]]
 
 ### Tools 
 
+#### Pacman
+[[Pacman]] is [[Arch Linux]]'s [[Package Manager]] and is arguably the best out there due to is wide variety of [[Library]]. It connect to Arch's [[Community Repository]] which has python tools by the boatload (literally haven't found one version a package missing), but unlike Python's [[PIP]], it not only install but manages the module it installs; adding protection to your development environment by ensuring that you will not have [[Package Conflicts]], or damaged files that cause your modules to act funny. 
+
+Downloading python files(```$ sudo pacman -S python-input_package_name```): 
+	- Pacman will install this only on your [[User Profile]] 
+
+Removing python libraries(```sudo pacman -R python-input_package_name```):
+	- This will remove the package
+
+Removing python libraries/configuration/additional install (```$ sudo pacman -Rns python-input_package_name```)
+
+###### Just use #Theory 
+
 #### JupyterLab
-[[JupyterLab]] is an [[Environement]], [[IDE]], or [[Editor]] that has a useful feature called [[Jupyter Notebooks]]. Jupyter Notebooks is an [[Open-Source]] [[Web Application]] that allows you to create and share documents that contain live code, equations, vizualizations, and narrative text.
+[[Jupyter-Lab]] is an [[Environement]], [[IDE]], or [[Editor]] that has a useful feature called [[Jupyter Notebooks]]. Jupyter Notebooks is an [[Open-Source]] [[Web Application]] that allows you to create and share documents that contain live code, equations, vizualizations, and narrative text.
 But before we got on to show you an example, follow this instruction guide on how to setup your [[Anaconda Environement]] and [[Kernel]], download JupyterLab, JupyterNotebook, and install the necessary JupyterNotebook extension [[VSCode]].
 
 #### Anaconda
 [[Anaconda]] Individual Edition is a package manager, an environment manager, a Python/R data science distribution, and a collection of over 7,500+ open-source packages. Anaconda is platform-agnostic, so you can use it whether you are on Windows, macOS, or Linux. Anaconda is free and easy to install. 
 
 #### Anaconda install 
-[[Anaconda]] To install Anaconda on Windows visit: 
-https://docs.anaconda.com/anaconda/install/windows/
+[[Anaconda]] To install Anaconda on Windows visit: [](https://docs.anaconda.com/anaconda/install/windows/)
 
-To install Anaconda on Mac visit: 
-https://docs.anaconda.com/anaconda/install/mac-os/
+To install Anaconda on Mac visit: [](https://docs.anaconda.com/anaconda/install/mac-os/)
 
-#### Initial Environment Setup #CondaEnvSetUp
-With conda, you can create, export, list, remove, and update [[Environement]]s that have different versions of Python and/or packages installed in them. Switching or moving between environments is called activating the environment. You can also share an environment file.
+#### Initial Environment Setup 
 
-For this course we will need the following [[Libraries]] to program our software. Follow the steps below.
-At an [[Anaconda Prompt]]:
 
 ``` Bash
 
@@ -130,7 +137,7 @@ When you are in a [[Jupyter Notebooks]], you will be able to run multiple snippe
 
 ##### Jupyternotebook in VSCode extension 
 
-## Coding In Python #Python
+## Coding In Python
 ### Print 
 Every running program has a text output area called "standard out", or sometimes just "stdout". The Python print() function takes in python data such as ints and strings, and prints those values to standard out. 
 You can run a program from the terminal, standard out appears right there. [](https://cs.stanford.edu/people/nick/py/python-print.html) 
@@ -144,7 +151,14 @@ print("InsertString")
 ```
 At [[Run Time]], the output will then be: 
 
-													        Insert String
+```
+p
+r
+i
+n
+t
+```
+
 Run:															
 ```
 print("Maribel's car was on fire")
@@ -179,7 +193,7 @@ Sequence Types: `list`, `tuple`, `range`
 Mapping Type: `dict`
 Set Types: `set`, `frozenset`
 Boolean Type: `bool`
-Binary Types: `bytes`, `bytearray`, `memoryview`
+Binary Types: `bytes`, `bytearray`, `memoryview` #Weakness 
 
 To figure out what data type it is, you will use the ```print``` function, followed by open paranthesees. 
 Within those paranthasees you will insert the ```type``` function. 
@@ -243,7 +257,7 @@ The "miles" variable is an integer; the "hours" variable is also an integer. Yet
 40.0 
 ```
 We got an float. 
-Listen to ![[Recording 20211119234205.webm]] and here why python gave us back that result. #interesting 
+Listen to ![[Recording 20211119234205.webm]] and here why python gave us back that result. 
 
 
 ### Functions 

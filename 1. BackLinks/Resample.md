@@ -1,6 +1,8 @@
-# Resampling with Pandas 
 
-Pandas `dataframe.resample()` function is primarily used for time series data.  
+
+### Resampling with Pandas 
+
+Pandas `dataframe.resample()` function is primarily used for [[Time Series]] data.  
 A time series is a series of data points indexed (or listed or graphed) in time order. Most commonly, a time series is a sequence taken at successive equally spaced points in time. It is a Convenience method for frequency conversion and resampling of time series. Object must have a datetime-like index (DatetimeIndex, PeriodIndex, or TimedeltaIndex), or pass datetime-like values to the on or level keyword.
 
 Resampling generates a unique sampling distribution on the basis of the actual data. We can apply various frequency to resample our time series data. This is a very important technique in the field of analytics.  
@@ -12,7 +14,7 @@ Most commonly used time series frequency are –
 
 There are many other types of time series frequency available. Let’s see how to apply these time series frequency on data and resample it.
 
-## Syntax and Parameters
+#### Syntax and Parameters
 
 **Syntax :** DataFrame.resample(rule, how=None, axis=0, fill_method=None, closed=None, label=None, convention=’start’, kind=None, loffset=None, limit=None, base=0, on=None, level=None)
 
