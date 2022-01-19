@@ -7,9 +7,49 @@
         "id": "b5a8f2afbf2fa33a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview",
+            "backlinks": true
+          }
+        },
+        "group": "28896288c80f4915"
+      },
+      {
+        "id": "817cfeceb2593834",
+        "type": "split",
+        "children": [
+          {
+            "id": "45cb7a7b59e87a1c",
+            "type": "leaf",
+            "dimension": 64.0112464854733,
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "b729f0e1b32778b3",
+            "type": "leaf",
+            "dimension": 35.988753514526714,
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "group": "28896288c80f4915"
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -76,12 +116,13 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -92,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -102,23 +144,23 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "b5a8f2afbf2fa33a",
   "lastOpenFiles": [
     "README.md",
+    "UM Financial Technology/7. Time Series/Time Series I.md",
     "2. Attachment/obsidian 1.jpg",
     "2. Attachment/obsidian.jpg",
-    "UM Financial Technology/7. Time Series/Time Series I.md",
     "UM Financial Technology/7. Time Series/Time Series II.md",
     "UM Financial Technology/6. SQL/SQL III.md",
     "UM Financial Technology/6. SQL/SQL I.md",

@@ -1,6 +1,6 @@
 #####  https://obsidian.md/
 # My Notes 
-![[obsidian 1.jpg]]
+![[obsidian.png]]
 ## Notes Method 
 
 ### File-System Hierarchy
