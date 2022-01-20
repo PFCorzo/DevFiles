@@ -1,4 +1,7 @@
 #####  https://obsidian.md/
+
+![alt text](2. Attachment/obsidi.jpg)
+
 # My Notes 
 
 ## Notes Method 
