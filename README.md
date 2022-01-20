@@ -1,6 +1,6 @@
 #####  https://obsidian.md/
 
-![alt text](2. Attachment/obsidi.jpg)
+![alt text](https://github.com/PFCorzo/DevFiles/blob/ff3c40e05efd17ab9aa432d9faa0788f508c6646/2.%20Attachment/obsidi.jpg)
 
 # My Notes 
 
